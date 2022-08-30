@@ -1,0 +1,6 @@
+	"{symbol} {code}": {{
+		"prefix": "{code}",
+		"body": [
+			"{symbol}"
+		],
+        }}
